@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.runtime_venv/
+
+# Browser login data
+browser_profile/
+playwright_profile/
+user_data/
+
+# Logs and diagnostics
+run_logs/
+*.log
+
+# Local temporary files
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
